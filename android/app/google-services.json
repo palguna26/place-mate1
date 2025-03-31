@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286540624146",
+    "project_id": "place-mate1",
+    "storage_bucket": "place-mate1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286540624146:android:0ed6f038680fddc17983cb",
+        "android_client_info": {
+          "package_name": "com.example.place_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jehscxsFYCIYROPaxMeyZPByvwyPeeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
